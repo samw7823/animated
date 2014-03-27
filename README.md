@@ -1,0 +1,4 @@
+animated
+========
+
+example git repository
